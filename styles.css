@@ -968,10 +968,6 @@ img {
 
 /* Mobile */
 @media (max-width: 640px) {
-  .news-section {
-    margin-bottom: 600px;
-  }
-
   .footer {
     height: 600px;
   }
